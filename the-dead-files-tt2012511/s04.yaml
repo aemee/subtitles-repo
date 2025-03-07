@@ -1,7 +1,7 @@
 msubtitles:
   - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s04/
     subtitles:
-        - season: 4
+      - season: 4
         items:
           - path: /e01-betrayed.srt
             episode: 1
