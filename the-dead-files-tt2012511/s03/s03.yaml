@@ -1,1 +1,39 @@
-placeholder
+msubtitles:
+  - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s03/
+    subtitles:
+      - season: 3
+        items:
+          - path: /e01-fatal-attachment.srt
+            episode: 1
+          - path: /e02-a-banshees-cry.srt
+            episode: 2
+          - path: /e03-revisited-deadly-attraction-and-fear-at-the-family-tree.srt
+            episode: 3
+          - path: /e04-revisited-blood-and-gold-and-pandoras-box.srt
+            episode: 4
+          - path: /e05-revisited-a-windows-rage-and-death-sentence.srt
+            episode: 5
+          - path: /e06-revisited-surrounded-and-hotel-hell.srt
+            episode: 6
+          - path: /e07-revisited-final-curtain-call-and-the-devil-made-me-do-it.srt
+            episode: 7
+          - path: /e08-blood-on-the-tracks.srt
+            episode: 8
+          - path: /e09-the-soul-collector.srt
+            episode: 9
+          - path: /e10-house-of-death.srt
+            episode: 10
+          - path: /e11-blood-in-the-bordello.srt
+            episode: 11
+          - path: /e12-family-curse.srt
+            episode: 12
+          - path: /e13-deadly-gift.srt
+            episode: 13
+          - path: /e14-burned-alive.srt
+            episode: 14
+          - path: /e15-tormented.srt
+            episode: 15
+          - path: /e16-never-alone.srt
+            episode: 16
+          - path: /e17-forgotten.srt
+            episode: 17
