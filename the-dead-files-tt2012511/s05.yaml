@@ -1,0 +1,33 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s05/
+    subtitles:
+      - season: 5
+        items:
+		  - path: /e01-plagued.srt
+			episode: 1
+		  - path: /e02-evil-within.srt
+            episode: 2
+		  - path: /e03-revisited-battlefield-and-violated.srt
+            episode: 3
+		  - path: /e04-forever-scarred.srt
+            episode: 4
+		  - path: /e05-the-axe-murder-house.srt
+            episode: 5
+		  - path: /e06-dead-end.srt
+            episode: 6
+		  - path: /e07-the-devils-bidding.srt
+            episode: 7
+		  - path: /e08-summonning-souls.srt
+            episode: 8
+		  - path: /e09-invaded.srt
+            episode: 9
+		  - path: /e10-house-of-horrors.srt
+            episode: 10
+		  - path: /e11-ghosts-of-deadwood.srt
+            episode: 11
+		  - path: /e12-master-of-the-damned.srt
+            episode: 12
+		  - path: /e13-innocent-blood.srt
+            episode: 13
+		  - path: /e14-dark-inheritance.srt
+            episode: 14
