@@ -1,44 +1,44 @@
 msubtitles:
   - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s04/
     subtitles:
-      - season: 4
+        - season: 4
         items:
           - path: /e01-betrayed.srt
-			      episode: 1
-		      - path: /e02-the-beast.srt
+            episode: 1
+          - path: /e02-the-beast.srt
             episode: 2
-		      - path: /e03-revisited-fatal-attachment-and-blood-on-the-tracks.srt
+          - path: /e03-revisited-fatal-attachment-and-blood-on-the-tracks.srt
             episode: 3
-		      - path: /e04-deadly-grounds.srt
+          - path: /e04-deadly-grounds.srt
             episode: 4
-		      - path: /e05-evil-underground.srt
+          - path: /e05-evil-underground.srt
             episode: 5
-		      - path: /e06-revisited-the-soul-collector-and-deadly-gift.srt
+          - path: /e06-revisited-the-soul-collector-and-deadly-gift.srt
             episode: 6
-		      - path: /e07-possessed.srt
+          - path: /e07-possessed.srt
             episode: 7
-		      - path: /e08-spellbound.srt
+          - path: /e08-spellbound.srt
             episode: 8
-		      - path: /e09-death-valley.srt
+          - path: /e09-death-valley.srt
             episode: 9
-		      - path: /e10-bloodlust.srt
+          - path: /e10-bloodlust.srt
             episode: 10
-		      - path: /e11-hotel-nowhere.srt
+          - path: /e11-hotel-nowhere.srt
             episode: 11
-		      - path: /e12-revisited-family-curse-and-the-house-of-death.srt
+          - path: /e12-revisited-family-curse-and-the-house-of-death.srt
             episode: 12
-		      - path: /e13-violated.srt
+          - path: /e13-violated.srt
             episode: 13
-		      - path: /e14-battlefield.srt
+          - path: /e14-battlefield.srt
             episode: 14
-		      - path: /e15-lethal-waters.srt
+          - path: /e15-lethal-waters.srt
             episode: 15
-		      - path: /e16-tortured-souls.srt
+          - path: /e16-tortured-souls.srt
             episode: 16
-		      - path: /e17-revisited-forgotten-and-burned-alive.srt
+          - path: /e17-revisited-forgotten-and-burned-alive.srt
             episode: 17
-		      - path: /e18-revisited-betrayed-and-a-banshees-cry.srt
+          - path: /e18-revisited-betrayed-and-a-banshees-cry.srt
             episode: 18
-		      - path: /e19-revisited-evil-underground-and-killed-by-the-klan.srt
+          - path: /e19-revisited-evil-underground-and-killed-by-the-klan.srt
             episode: 19
 
