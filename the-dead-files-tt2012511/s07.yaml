@@ -1,0 +1,35 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s07/
+    subtitles:
+      - season: 7
+        items:
+          - path: e01-guardians-of-the-dead
+            episode: 1
+          - path: e02-deranged.srt
+            episode: 2
+          - path: e03-house-of-mirrors.srt
+            episode: 3
+          - path: e04-the-instigator.srt
+            episode: 4
+          - path: e05-the-obsession.srt
+            episode: 5
+          - path: e06-from-beyond.srt
+            episode: 6
+          - path: e07-afflicted.srt
+            episode: 7
+          - path: e08-torn-apart.srt
+            episode: 8
+          - path: e09-perfect-storm.srt
+            episode: 9
+          - path: e10-the-creeper.srt
+            episode: 10
+          - path: e11-madhouse.srt
+            episode: 11
+          - path: e12-vengeance.srt
+            episode: 12
+          - path: e13-smothered.srt
+            episode: 13
+          - path: e14-revisited-demon-war-and-assaulted.srt
+            episode: 14
+          - path: e15-revisited-satans-revenge-and-double-jeopardy.srt
+            episode: 15
