@@ -1,5 +1,5 @@
 msubtitles:
-  - source: https://raw.githubusercontent.com/aemee/subtitles-repo/refs/heads/main/the-dead-files-tt2012511/s05/
+  - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s05/
     subtitles:
       - season: 5
         items:
@@ -7,27 +7,27 @@ msubtitles:
             episode: 1
           - path: /e02-evil-within.srt
             episode: 2
-          - path: /e03-revisited-battlefield-and-violated.srt
+          - path: /e03-forever-scarred.srt
             episode: 3
-          - path: /e04-forever-scarred.srt
+          - path: /e04-the-axe-murder-house.srt
             episode: 4
-          - path: /e05-the-axe-murder-house.srt
+          - path: /e05-dead-end.srt
             episode: 5
-          - path: /e06-dead-end.srt
+          - path: /e06-the-devils-bidding.srt
             episode: 6
-          - path: /e07-the-devils-bidding.srt
+          - path: /e07-summonning-souls.srt
             episode: 7
-          - path: /e08-summonning-souls.srt
+          - path: /e08-invaded.srt
             episode: 8
-          - path: /e09-invaded.srt
+          - path: /e09-house-of-horrors.srt
             episode: 9
-          - path: /e10-house-of-horrors.srt
+          - path: /e10-ghosts-of-deadwood.srt
             episode: 10
-          - path: /e11-ghosts-of-deadwood.srt
+          - path: /e11-master-of-the-damned.srt
             episode: 11
-          - path: /e12-master-of-the-damned.srt
+          - path: /e12-innocent-blood.srt
             episode: 12
-          - path: /e13-innocent-blood.srt
+          - path: /e13-dark-inheritance.srt
             episode: 13
-          - path: /e14-dark-inheritance.srt
+          - path: /e14-revisited-season-5-q-and-a-special.srt
             episode: 14
