@@ -3,45 +3,29 @@ msubtitles:
     subtitles:
       - season: 6
         items:
-          - path: /e01-revisited-deadly-grounds-and-blood-in-the-bordello.srt
+          - path: /e01-the-aftermath.srt
             episode: 1
-          - path: /e02-the-aftermath.srt
+          - path: /e02-fractured.srt
             episode: 2
-          - path: /e03-fractured.srt
+          - path: /e03-assaulted.srt
             episode: 3
-          - path: /e04-assaulted.srt
+          - path: /e04-demon-war.srt
             episode: 4
-          - path: /e05-demon-war.srt
+          - path: /e05-satans-revenge.srt
             episode: 5
-          - path: /e06-satans-revenge.srt
+          - path: /e06-the-dark-one.srt
             episode: 6
-          - path: /e07-the-dark-one.srt
+          - path: /e07-double-jeopardy.srt
             episode: 7
-          - path: /e08-double-jeopardy.srt
+          - path: /e08-feeding-grounds.srt
             episode: 8
-          - path: /e09-feeding-grounds.srt
+          - path: /e9-the-cursed-path.srt
             episode: 9
-          - path: /e10-the-cursed-path.srt
+          - path: /e10-bound.srt
             episode: 10
-          - path: /e11-bound.srt
+          - path: /e11-living-nightmare.srt
             episode: 11
-          - path: /e12-living-nightmare.srt
+          - path: /e12-eternal-hatred.srt
             episode: 12
-          - path: /e13-eternal-hatred.srt
+          - path: /e13-intolerance.srt
             episode: 13
-          - path: /e14-intolerance.srt
-            episode: 14
-          - path: /e15-revisited-never-alone-and-spellbound.srt
-            episode: 15
-          - path: /e16-revisited-tortured-souls-and-evil-within.srt
-            episode: 16
-          - path: /e17-revisited-plagued-and-lethal-waters.srt
-            episode: 17
-          - path: /e18-revisited-dead-end-and-summoning-souls.srt
-            episode: 18
-          - path: /e19-revisited-forever-scarred-and-invaded.srt
-            episode: 19
-          - path: /e20-revisited-master-of-the-damned-and-ghosts-of-deadwood.srt
-            episode: 20
-          - path: /e21-revisited-innocent-blood-and-fractured.srt
-            episode: 21
