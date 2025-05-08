@@ -3,7 +3,7 @@ msubtitles:
     subtitles:
       - season: 7
         items:
-          - path: e01-guardians-of-the-dead
+          - path: e01-guardians-of-the-dead.srt
             episode: 1
           - path: e02-deranged.srt
             episode: 2
