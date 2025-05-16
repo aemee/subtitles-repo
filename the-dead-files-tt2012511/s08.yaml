@@ -1,7 +1,7 @@
 msubtitles:
   - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s08/
     subtitles:
-      - season: 7
+      - season: 8
         items:
           - path: e01-toys-for-the-dead.srt
             episode: 1
