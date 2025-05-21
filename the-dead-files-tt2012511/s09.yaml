@@ -1,0 +1,31 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s09/
+    subtitles:
+      - season: 9
+        items:
+          - path: e01-the-sacrifice.srt
+            episode: 1
+          - path: e02-the-predator.srt
+            episode: 2
+          - path: e03-controlled.srt
+            episode: 3
+          - path: e04-compelled.srt
+            episode: 4
+          - path: e05-consumed.srt
+            episode: 5
+          - path: e06-deadly-relations.srt
+            episode: 6
+          - path: e07-the-watcher.srt
+            episode: 7
+          - path: e08-fear-lives-here.srt
+            episode: 8
+          - path: e09-legion-of-death.srt
+            episode: 9
+          - path: e10-it-feeds.srt
+            episode: 10
+          - path: e11-feeding-the-fire.srt
+            episode: 11
+          - path: e12-drawn-to-evil.srt
+            episode: 12
+          - path: e13-the-offering.srt
+            episode: 13
