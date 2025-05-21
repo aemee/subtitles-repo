@@ -1,0 +1,30 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/aemee/msubtitles-repo/refs/heads/main/the-dead-files-tt2012511/s11/
+    subtitles:
+      - season: 11
+        items:
+        - path: e01-triggered.srt
+            episode: 1
+        - path: e02-deadly-reflections.srt
+            episode: 2
+        - path: e03-killer-instinct.srt
+            episode: 3
+        - path:  e04-jumped.srt
+            episode: 4
+        - path: e05-desert-curse.srt
+            episode: 5
+        - path: e06-the-uninvited.srt
+            episode: 6
+        - path:  e07-lullaby-for-the-dead.srt
+            episode: 7
+        - path: e08-evil-descends.srt
+            episode: 8
+        - path:  e09-inviting-evil.srt
+            episode: 9
+        - path:  e10-innocence-lost.srt
+            episode: 10
+        - path:  e11-dark-thoughts.srt
+            episode: 11
+        - path:  e12-terrorland.srt
+            episode: 12
+        - path:  e13-easy-prey.srt
